@@ -1,18 +1,12 @@
-<div style="display: flex; align-items: flex-start; justify-content: flex-start;">
-  <!-- Div para a imagem, alinhada à direita com largura de 180px -->
-  <div style="width: 180px; margin-right: 20px;">
-    <img src="tenor.gif" width="180" style="margin-top: 10px; margin-bottom: 10px;">
-  </div>
-  
-  <!-- Div para o texto, com alinhamento justificado -->
-  <div style="text-align: justify; flex: 1;">
+<div style="display: flex; align-items: flex-start;">
+ <div imagem text-align: right;
+  <img src="tenor.gif" width="180" style="margin-right: 20px; margin-top: 10px; margin-bottom: 10px; ">
+ </div>
+  <div style="text-align: left;">
     <h2>Oi! Bem-vindo(a) ao meu Github</h2>
-    <p>
-      Sou Layny Vitória, tenho 23 anos e estou no 4º semestre de Engenharia de Computação 💻. Comecei com desenvolvimento web, que é uma área interessante, mas não consegui me sentir realizada nela. Depois de um tempo convivendo com amigos da área e acompanhando alguns projetos, minha vontade de aprender a lidar e manejar ferramentas que envolvam dados cresceu fortemente. Portanto, estou eu aqui começando do zero e pretendo registrar cada passo do meu aprendizado aqui.
-    </p>
-    <p>
-      Curto paz, gatos e música – coisas simples que me fazem bem. Estou sempre tentando melhorar e aprender mais, tanto na tecnologia quanto na vida. Vou tentar transmitir quem eu sou e como estou evoluindo por meio das documentações dos meus estudos. Vamos lá!
-    </p>
+      <div style="text-align: justify-content;">
+    Sou Layny Vitória, tenho 23 anos e estou no 4º semestre de Engenharia de Computação 💻. Comecei com desenvolvimento web, que é uma área interessante, mas não consegui me sentir realizada nela. Depois de um tempo convivendo com amigos da área e acompanhando alguns projetos, minha vontade de aprender a lidar e manejar ferramentas que envolvam dados cresceu fortemente. Portanto, estou eu aqui começando do zero e pretendo registrar cada passo do meu aprendizado aqui.
+    Curto paz, gatos e música – coisas simples que me fazem bem. Estou sempre tentando melhorar e aprender mais, tanto na tecnologia quanto na vida. Vou tentar transmitir quem eu sou e como estou evoluindo por meio das documentações dos meus estudos. Vamos lá!
   </div>
 </div>
 
