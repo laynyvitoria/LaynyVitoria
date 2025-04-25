@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="tenor.gif" width="180" align="right" style="margin-left: 50px; margin-bottom: 20px;">
+  <img src="tenor.gif" width="180" align="right" style="margin-left: 20px; margin-top: 10px; margin-bottom: 10px;">
   <span style="display: inline-block; width: calc(100% - 200px);">
     <h3>Olá, bem-vindo(a) ao meu GitHub! 👋</h3>
     <p align="justify">
