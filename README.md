@@ -1,6 +1,6 @@
-<div style="display: flex;">
+<div style="display: flex; align-items: flex-start;">
     <span style="display: inline-block; width: calc(100% - 200px);">
-      <p align="right">
+      <p align="right"; justify-content: flex-start;>
         <img src="tenor.gif" width="180" align="right" style="margin-left: 20px; margin-top: 10px; margin-bottom: 10px;">
       </p>
       <p align="left">
