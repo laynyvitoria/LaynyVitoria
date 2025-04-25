@@ -15,9 +15,6 @@
   </tr>
 </table>
 
-
-
-
 ### 🌟 Minhas habilidades
 <p align="center">
   <a href="https://skillicons.dev">
