@@ -14,7 +14,7 @@ Curto paz, gatos e música – coisas simples que me fazem bem. Estou sempre ten
 
 ---
 
-### 🚀 Meus Projetos
+### 🚀 Meus projetos
 Atualmente, meus projetos estão focados nos meus estudos de **Python** e **MySQL**. Confira alguns deles:
 
 - **[estudos-python](https://github.com/laynyv/estudos-python)**: Revisões comentadas do básico de **Python** e exercícios para fixação. 🎓
