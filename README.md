@@ -1,10 +1,7 @@
-# ✨ Olá, eu sou a Layny Vitória! 👩‍💻
+Olá, bem-vindo(a) ao meu GitHub! 👋
+Sou Layny Vitória, tenho 23 anos e estou no 4º semestre de Engenharia de Computação 💻. Comecei com desenvolvimento web, que é uma área interessante, mas não consegui me sentir realizada nela. Depois de conversar com amigos da área e ver alguns projetos, percebi que o campo de dados me atrai mais. Estou começando do zero nessa área e vou registrar cada passo do meu aprendizado aqui.
 
-Bem-vinda(o) ao meu GitHub! ✨
-
-Sou apaixonada por **música**, especialmente **rap** e **rock** (minha religião é **Pink Floyd**, brincando hahaha 🎸). Adoro **gatos** 🐱 e estou sempre em busca de aprender mais sobre **tecnologia** gosto de aprender a aplicar na minha vida e depois resolver problemas com ela.
-
-Atualmente, estou no 4º semestre de **Engenharia de Computação** 💻 e, apesar de ainda estar me encontrando, a área de **dados** tem me chamado muito a atenção. Estou bem focada, aprendendo o máximo que consigo e explorando tudo que posso sobre esse campo, que tem me empolgado bastante. 🚀
+Curto paz, gatos e música – coisas simples que me fazem bem. Estou sempre tentando melhorar e aprender mais, tanto na tecnologia quanto na vida. Vou tentar transmitir quem eu sou e como estou evoluindo por meio das documentações dos meus estudos. Vamos lá!
 
 ---
 
