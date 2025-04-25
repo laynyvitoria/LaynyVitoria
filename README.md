@@ -31,3 +31,6 @@ Atualmente, meus projetos estão focados nos meus estudos de **Python** e **MySQ
 | [**Estudos MySQL**](https://github.com/laynyv/estudos-mysql) | Focando no estudo de **SQL** com **MySQL**, com tabelas de exemplo e anotações dos meus estudos.  |
 
 Esses são os projetos que estou atualizando enquanto continuo me aprofundando em **Python** e **bancos de dados**.
+---
+
+![Snake animation](https://github.com/LaynyVitoria/LaynyVitoria/blob/output/github-contribution-grid-snake.svg) 
