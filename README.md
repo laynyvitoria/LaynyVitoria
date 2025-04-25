@@ -19,9 +19,9 @@ Curto paz, gatos e música – coisas simples que me fazem bem. Estou sempre ten
 Atualmente, meus projetos estão focados nos meus estudos de **Python** e **MySQL**. Confira alguns deles:
 
 
-| [**Estudos Python**](https://github.com/laynyv/estudos-python) | Revisões comentadas do básico de **Python** e exercícios para fixação. 🎓 |
+| [**Estudos Python**](https://github.com/laynyv/estudos-python) | Revisões comentadas do básico de **Python** e exercícios para fixação.  |
 | ------- | --------- |
-| [**Estudos MySQL**](https://github.com/laynyv/estudos-mysql) | Focando no estudo de **SQL** com **MySQL**, com tabelas de exemplo e anotações dos meus estudos. 📊 |
+| [**Estudos MySQL**](https://github.com/laynyv/estudos-mysql) | Focando no estudo de **SQL** com **MySQL**, com tabelas de exemplo e anotações dos meus estudos.  |
 
 Esses são os projetos que estou atualizando enquanto continuo me aprofundando em **Python** e **bancos de dados**.
 
