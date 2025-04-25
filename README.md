@@ -12,17 +12,10 @@
 
   <!-- Coluna com o gif -->
   <div style="flex: 0 0 auto; width: 150px;">
-    <div class="tenor-gif-embed" data-postid="16239328322874185153" data-share-method="host" data-aspect-ratio="1" data-width="100">
-      <a href="https://tenor.com/view/lkbc-little-kitty-big-city-black-cat-cat-cat-on-computer-gif-16239328322874185153">
-        Lkbc Little Kitty Big City GIF
-      </a> from <a href="https://tenor.com/search/lkbc-gifs">Lkbc GIFs</a>
-    </div>
-    <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+    <img src="https://media.tenor.com/images/5a37d5757b7e33a40e9ec1b8599a6723/tenor.gif" alt="Gatinho Digitando" width="100%"/>
   </div>
 </div>
 
-
----
 
 ### 🌟 Minhas habilidades
 <p align="center">
