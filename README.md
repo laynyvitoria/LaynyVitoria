@@ -9,7 +9,7 @@ Atualmente, estou estudando **Engenharia de Computação** 💻 no 4º semestre 
 ### 🌟 Minhas Habilidades
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,html,css,java,js,py,git&theme=dark&perline=4" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,react,java,py,git&theme=dark&perline=4" />
   </a>
 </p>
 
