@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: flex-start;">
-  <span style="display: inline-block;">
+  <span style="display: inline-block;  width: calc(100% - 200px);">
     <p style="text-align: right; margin-left: 20px;">
       <img src="tenor.gif" width="180" style="margin-top: 10px; margin-bottom: 10px;">
     </p>
