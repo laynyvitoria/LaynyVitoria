@@ -1,10 +1,12 @@
 <p align="left">
-  <img src="tenor.gif" width="150" align="right" style="margin-left: 20px;">
-  Olá, bem-vindo(a) ao meu GitHub! 👋
+  <img src="tenor.gif" width="150" align="right" style="margin-left: 20px; margin-bottom: 10px;">
+  <span style="display: inline-block; width: calc(100% - 160px);">
+    Olá, bem-vindo(a) ao meu GitHub! 👋<br><br>
 
-  Sou Layny Vitória, tenho 23 anos e estou no 4º semestre de Engenharia de Computação 💻. Comecei com desenvolvimento web, que é uma área interessante, mas não consegui me sentir realizada nela. Depois de um tempo convivendo com amigos da área e acompanhando alguns projetos, minha vontade de aprender a lidar e manejar ferramentas que envolvam dados cresceu fortemente. Portanto, estou eu aqui começando do zero e pretendo registrar cada passo do meu aprendizado aqui.
+    Sou Layny Vitória, tenho 23 anos e estou no 4º semestre de Engenharia de Computação 💻. Comecei com desenvolvimento web, que é uma área interessante, mas não consegui me sentir realizada nela. Depois de um tempo convivendo com amigos da área e acompanhando alguns projetos, minha vontade de aprender a lidar e manejar ferramentas que envolvam dados cresceu fortemente. Portanto, estou eu aqui começando do zero e pretendo registrar cada passo do meu aprendizado aqui.<br><br>
 
-  Curto paz, gatos e música – coisas simples que me fazem bem. Estou sempre tentando melhorar e aprender mais, tanto na tecnologia quanto na vida. Vou tentar transmitir quem eu sou e como estou evoluindo por meio das documentações dos meus estudos. Vamos lá!
+    Curto paz, gatos e música – coisas simples que me fazem bem. Estou sempre tentando melhorar e aprender mais, tanto na tecnologia quanto na vida. Vou tentar transmitir quem eu sou e como estou evoluindo por meio das documentações dos meus estudos. Vamos lá!
+  </span>
 </p>
 
 ### 🌟 Minhas habilidades
