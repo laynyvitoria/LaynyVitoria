@@ -12,7 +12,6 @@
   </span>
 </div>
 
-
 ---
 
 ### 🌟 Minhas habilidades
