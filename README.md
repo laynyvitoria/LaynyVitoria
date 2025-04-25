@@ -2,11 +2,13 @@
 
 Bem-vinda(o) ao meu GitHub! ✨
 
-Sou apaixonada por **música**, especialmente **rap** e **rock** (minha religião é **Pink Floyd**, brincando hahaha 🎸). Adoro **gatos** 🐱 e estou sempre em busca de aprender mais sobre **tecnologia** e como ela pode transformar o mundo.
+Sou apaixonada por **música**, especialmente **rap** e **rock** (minha religião é **Pink Floyd**, brincando hahaha 🎸). Adoro **gatos** 🐱 e estou sempre em busca de aprender mais sobre **tecnologia** gosto de aprender a aplicar na minha vida e depois resolver problemas com ela.
 
-Atualmente, estou estudando **Engenharia de Computação** 💻 no 4º semestre e me apaixonei pela **carreira de dados**. Venho me dedicando ao aprendizado de **programação** e estou começando a me aprofundar no universo de **desenvolvimento web**.
+Atualmente, estou no 4º semestre de **Engenharia de Computação** 💻 e, apesar de ainda estar me encontrando, a área de **dados** tem me chamado muito a atenção. Estou bem focada, aprendendo o máximo que consigo e explorando tudo que posso sobre esse campo, que tem me empolgado bastante. 🚀
 
-### 🌟 Minhas Habilidades
+---
+
+### 🌟 Minhas habilidades
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,c,react,java,py,git&theme=dark&perline=8" />
@@ -16,13 +18,18 @@ Atualmente, estou estudando **Engenharia de Computação** 💻 no 4º semestre 
 ---
 
 ### 🚀 Meus Projetos
-Aqui você pode encontrar alguns projetos em que estou trabalhando! 💡
+Atualmente, meus projetos estão focados nos meus estudos de **Python** e **MySQL**. Confira alguns deles:
 
-- **[estudos-python](https://github.com/laynyv/estudos-python)**: Revisão e aprendizado do básico de Python. 🎓
-- **[estudos-mysql](https://github.com/laynyv/estudos-mysql)**: Estudo de MySQL e bancos de dados. 📊
-- **[Calculadora-de-expressoes](https://github.com/laynyv/Calculadora-de-expressoes)**: Calculadora de expressões matemáticas em **JavaScript**. 🧮
-- **[Sistema-bancario-simples-em-Py](https://github.com/laynyv/Sistema-bancario-simples-em-Py)**: Sistema bancário simples em **Python**. 💸
-- **[Agenda-eletronica](https://github.com/laynyv/Agenda-eletronica)**: Agenda eletrônica básica em **C**. 📅
+- **[estudos-python](https://github.com/laynyv/estudos-python)**: Revisões comentadas do básico de **Python** e exercícios para fixação. 🎓
+- **[estudos-mysql](https://github.com/laynyv/estudos-mysql)**: Focando no estudo de *SQL* com **MySQL**, com tabelas de exemplo e anotações dos meus estudos. 📊
+
+Esses são os projetos que estou atualizando enquanto continuo me aprofundando em **Python** e **bancos de dados**.
+
+Ah, e se você quiser dar uma olhada nas "besteirinhas" que já fiz no passado, elas estão aqui também:
+
+- **[Calculadora-de-expressoes](https://github.com/laynyv/Calculadora-de-expressoes)**: Uma calculadora simples em **JavaScript**. 🧮
+- **[Sistema-bancario-simples-em-Py](https://github.com/laynyv/Sistema-bancario-simples-em-Py)**: Sistema bancário básico em **Python**. 💸
+- **[Agenda-eletronica](https://github.com/laynyv/Agenda-eletronica)**: Agenda eletrônica em **C**. 📅
 - **[ContaBanco](https://github.com/laynyv/ContaBanco)**: Simulação de conta bancária em **Java**. 💳
 
 ---
