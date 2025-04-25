@@ -1,10 +1,20 @@
-<p align="left">
-  <img src="tenor.gif" width="150" align="right" style="margin-left: 20px; margin-bottom: 10px;">
-  <h3>Olá, bem-vindo(a) ao meu GitHub! 👋</h3>
-  <p>Sou Layny Vitória, tenho 23 anos e estou no 4º semestre de Engenharia de Computação 💻. Comecei com desenvolvimento web, que é uma área interessante, mas não consegui me sentir realizada nela. Depois de um tempo convivendo com amigos da área e acompanhando alguns projetos, minha vontade de aprender a lidar e manejar ferramentas que envolvam dados cresceu fortemente. Portanto, estou eu aqui começando do zero e pretendo registrar cada passo do meu aprendizado aqui.</p>
-  <p>Curto paz, gatos e música – coisas simples que me fazem bem. Estou sempre tentando melhorar e aprender mais, tanto na tecnologia quanto na vida. Vou tentar transmitir quem eu sou e como estou evoluindo por meio das documentações dos meus estudos. Vamos lá!</p>
-</p>
-
+<div style="display: flex; justify-content: center; align-items: flex-start; text-align: justify;">
+  <!-- Coluna com a imagem -->
+  <div style="flex: 0 0 200px; margin-right: 20px;">
+    <img src="tenor.gif" width="100%" style="max-width: 150px;">
+  </div>
+  
+  <!-- Coluna com o texto -->
+  <div style="flex: 1;">
+    <h3>Olá, bem-vindo(a) ao meu GitHub! 👋</h3>
+    <p>
+      Sou Layny Vitória, tenho 23 anos e estou no 4º semestre de Engenharia de Computação 💻. Comecei com desenvolvimento web, que é uma área interessante, mas não consegui me sentir realizada nela. Depois de um tempo convivendo com amigos da área e acompanhando alguns projetos, minha vontade de aprender a lidar e manejar ferramentas que envolvam dados cresceu fortemente. Portanto, estou eu aqui começando do zero e pretendo registrar cada passo do meu aprendizado aqui.
+    </p>
+    <p>
+      Curto paz, gatos e música – coisas simples que me fazem bem. Estou sempre tentando melhorar e aprender mais, tanto na tecnologia quanto na vida. Vou tentar transmitir quem eu sou e como estou evoluindo por meio das documentações dos meus estudos. Vamos lá!
+    </p>
+  </div>
+</div>
 ### 🌟 Minhas habilidades
 <p align="center">
   <a href="https://skillicons.dev">
