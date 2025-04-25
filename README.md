@@ -14,26 +14,16 @@ Curto paz, gatos e música – coisas simples que me fazem bem. Estou sempre ten
 
 ---
 
-### 🚀 Meus projetos
+### 🚀 Meus Projetos
 
 Atualmente, meus projetos estão focados nos meus estudos de **Python** e **MySQL**. Confira alguns deles:
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-  <div style="width: 250px; border: 1px solid #ddd; padding: 15px; border-radius: 8px; background-color: #f4f4f4; text-align: center;">
-    <h4>Estudos Python</h4>
-    <a href="https://github.com/laynyv/estudos-python" target="_blank">
-      <img src="https://img.shields.io/badge/Project-Python-blue" alt="Estudos Python" style="width: 100%; border-radius: 5px;" />
-    </a>
-    <p>Revisões comentadas do básico de Python e exercícios para fixação. 🎓</p>
-  </div>
-  <div style="width: 250px; border: 1px solid #ddd; padding: 15px; border-radius: 8px; background-color: #f4f4f4; text-align: center;">
-    <h4>Estudos MySQL</h4>
-    <a href="https://github.com/laynyv/estudos-mysql" target="_blank">
-      <img src="https://img.shields.io/badge/Project-MySQL-green" alt="Estudos MySQL" style="width: 100%; border-radius: 5px;" />
-    </a>
-    <p>Focando no estudo de SQL com MySQL, com tabelas de exemplo e anotações dos meus estudos. 📊</p>
-  </div>
-</div>
+| Projeto | Descrição |
+| ------- | --------- |
+| [**Estudos Python**](https://github.com/laynyv/estudos-python) | Revisões comentadas do básico de **Python** e exercícios para fixação. 🎓 |
+| [**Estudos MySQL**](https://github.com/laynyv/estudos-mysql) | Focando no estudo de **SQL** com **MySQL**, com tabelas de exemplo e anotações dos meus estudos. 📊 |
+
+Esses são os projetos que estou atualizando enquanto continuo me aprofundando em **Python** e **bancos de dados**.
 
 
 
