@@ -1,7 +1,7 @@
 <div style="display: flex;">
     <span style="display: inline-block; width: calc(100% - 200px);">
       <p align="right">
-        <img src="tenor.gif" width="180" align="right" style="margin-left: 20px; margin-top: 10px; margin-bottom: 10px;">
+        <img src="tenor.gif" width="180" align="right" style="margin-left: 20px; margin-top: 30px; margin-bottom: 10px;">
       </p>
       <p align="left">
         <p align="justify-content">
