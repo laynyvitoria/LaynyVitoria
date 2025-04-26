@@ -1,4 +1,3 @@
----
 <div style="display: flex;">
   <h2>Oi! Bem-vindo(a) ao meu Github</h2>
   <span style="display: inline-block; width: calc(100% - 200px);">
