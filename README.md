@@ -33,11 +33,3 @@ Esses são os projetos que estou atualizando conforme vou me aprofundando em **P
 
 ---
 
-Ah, e se você quiser dar uma olhada nas "besteirinhas" que já fiz no passado, elas estão aqui também:
-
-- **[Calculadora-de-expressoes](https://github.com/laynyv/Calculadora-de-expressoes)**: Uma calculadora simples em **JavaScript**. 🧮
-- **[Sistema-bancario-simples-em-Py](https://github.com/laynyv/Sistema-bancario-simples-em-Py)**: Sistema bancário básico em **Python**. 💸
-- **[Agenda-eletronica](https://github.com/laynyv/Agenda-eletronica)**: Agenda eletrônica em **C**. 📅
-- **[ContaBanco](https://github.com/laynyv/ContaBanco)**: Simulação de conta bancária em **Java**. 💳
-
----
