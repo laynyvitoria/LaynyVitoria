@@ -7,13 +7,10 @@
     </p>
   </div>
   <div>
-    <img src="tenor.gif" width="180" style="margin-top: 30px; margin-bottom: 10px;">
+    <img src="tenor.gif" width="200" style="margin-top: 10px;">
   </div>
 </div>
 
-
-  <img src="tenor.gif" width="180" style="margin-left: 20px; margin-top: 30px; margin-bottom: 10px;">
-</div>
 
 ---
 
