@@ -24,11 +24,7 @@
 
 ### 🚀 Meus Projetos
 
-Esses são os projetos que estou atualizando conforme vou me aprofundando em **Python** e **bancos de dados**.
-
-| [**Estudos Python**](https://github.com/laynyv/estudos-python) | Revisões comentadas do básico de **Python** e exercícios para fixação.  |
-| ------- | --------- |
-| [**Estudos MySQL**](https://github.com/laynyv/estudos-mysql) | Focando no estudo de **SQL** com **MySQL**, com tabelas de exemplo e anotações dos meus estudos.  |
+*Para atualizar
 
 
 ---
