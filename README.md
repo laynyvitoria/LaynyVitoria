@@ -6,7 +6,7 @@
     </p>
     <p style="margin-left:20px; text-align: justify; text-indent: 20px;">
       Sou Layny Vitória, tenho 23 anos e estou no 4º semestre de Engenharia de Computação. Comecei na area de T.I com desenvolvimento web, que é uma área interessante, mas não consegui me sentir realizada nela. Depois de um tempo convivendo com amigos da área de Data Science e acompanhando alguns projetos, minha vontade de aprender a lidar e manejar ferramentas que envolvam dados cresceu fortemente. Portanto, estou eu aqui começando do zero e pretendo registrar cada passo do meu aprendizado aqui.
-      Faz parte de mim sempre mencionar como amo a adaptablidade e autossuficiência dos gatos – fora todos serem extraordinariamente lindos e magnéticos(🤣❤️). Estou sempre tentando melhorar e aprender mais, tanto na tecnologia quanto na vida. Espero que se sinta bem-vindo(a) em ver a minha jornada ao progresso!
+      Espero que se sinta bem-vindo(a) em ver a minha jornada ao progresso!
     </p>
   </span>
 </div>
