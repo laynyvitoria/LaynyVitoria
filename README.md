@@ -1,14 +1,4 @@
-<div style="display: flex;">
-  <h2>Oi! Bem-vindo(a) ao meu Github</h2>
-  <span style="display: inline-block; width: calc(100% - 200px);">
-    <p align="right">
-      <img src="tenor.gif" width="150" align="right" style="margin-left: 20px; margin-top: 30px; margin-bottom: 10px;">
-    </p>
-    <p style="margin-left:20px; text-align: justify; text-indent: 20px;">
-      
-    </p>
-  </span>
-</div>
+
 
 ---
 
