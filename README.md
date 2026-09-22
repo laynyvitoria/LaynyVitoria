@@ -73,6 +73,15 @@
 
 ### 🤝 Connect with me
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Email](https://shields.io)](mailto:laynyvitoriamac@gmail.com)
-[![GitHub](https://shields.io)](https://github.com)
+<p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="mailto:laynyvitoriamac@gmail.com" target="_blank">
+    <img src="https://shields.io" alt="Email" />
+  </a>
+  <a href="https://github.com" target="_blank">
+    <img src="https://shields.io" alt="GitHub" />
+  </a>
+</p>
+
