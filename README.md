@@ -6,7 +6,7 @@
 
 ---
 
-### 💻 Tech Stack & Infrastructure Tools
+### 💻 Tech Stack 
 
 ### Cloud & Infrastructure
 
