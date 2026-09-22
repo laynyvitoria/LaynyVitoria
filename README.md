@@ -7,24 +7,32 @@
 
 ### 💻 Tech Stack & Infrastructure Tools
 
-#### Cloud & Automation
-![AWS](https://shields.io)
-![Terraform](https://shields.io)
-![Docker](https://shields.io)
-![Linux](https://shields.io)
-![Bash](https://shields.io)
+<p align="left">
+  <img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://shields.io" alt="AWS RDS" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://shields.io" alt="Docker" />
+</p>
 
-#### Monitoring & Observability
-![Grafana](https://shields.io)
-![Prometheus](https://shields.io)
-![Nginx](https://shields.io)
-![Git](https://shields.io)
+<p align="left">
+  <img src="https://shields.io" alt="Linux" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
+  <img src="https://shields.io" alt="Bash" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+</p>
 
-#### Backend & Databases
-![Node.js](https://shields.io)
-![NestJS](https://shields.io)
-![PostgreSQL](https://shields.io)
-![MySQL](https://shields.io)
+<p align="left">
+  <img src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9" alt="Grafana" />
+  <img src="https://shields.io" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+<p align="left">
+  <img src="https://shields.io" alt="Node.js" />
+  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
 
 ---
 
@@ -75,13 +83,12 @@
 
 <p align="left">
   <a href="https://linkedin.com" target="_blank">
-    <img src="https://vbr.dev" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:laynyvitoriamac@gmail.com" target="_blank">
-    <img src="https://vbr.dev" alt="Email" />
+    <img src="https://shields.io" alt="Email" />
   </a>
   <a href="https://github.com" target="_blank">
-    <img src="https://vbr.dev" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
