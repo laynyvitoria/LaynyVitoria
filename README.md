@@ -75,13 +75,13 @@
 
 <p align="left">
   <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
+    <img src="https://vbr.dev" alt="LinkedIn" />
   </a>
   <a href="mailto:laynyvitoriamac@gmail.com" target="_blank">
-    <img src="https://shields.io" alt="Email" />
+    <img src="https://vbr.dev" alt="Email" />
   </a>
   <a href="https://github.com" target="_blank">
-    <img src="https://shields.io" alt="GitHub" />
+    <img src="https://vbr.dev" alt="GitHub" />
   </a>
 </p>
 
