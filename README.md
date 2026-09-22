@@ -92,7 +92,6 @@
 
 - **Advanced Algorithmic Problem Solving** — Competitive Programming Study Group (UFC)
 
-- **Hardware Automation & Microcontrollers** — NUCLIC Robotics Nucleus (UFC)
 
 </details>
 
