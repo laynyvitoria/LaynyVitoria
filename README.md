@@ -1,4 +1,3 @@
-
 # Hi, I'm Layny Morais 👋
 **Infrastructure & Cloud Operations | Systems Engineering**
 
@@ -6,11 +5,26 @@
 
 ---
 
-### 💻 Tech Stack
+### 💻 Tech Stack & Infrastructure Tools
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev" alt="My Tech Stack" />
-</a>
+#### Cloud & Automation
+![AWS](https://shields.io)
+![Terraform](https://shields.io)
+![Docker](https://shields.io)
+![Linux](https://shields.io)
+![Bash](https://shields.io)
+
+#### Monitoring & Observability
+![Grafana](https://shields.io)
+![Prometheus](https://shields.io)
+![Nginx](https://shields.io)
+![Git](https://shields.io)
+
+#### Backend & Databases
+![Node.js](https://shields.io)
+![NestJS](https://shields.io)
+![PostgreSQL](https://shields.io)
+![MySQL](https://shields.io)
 
 ---
 
@@ -59,4 +73,6 @@
 
 ### 🤝 Connect with me
 
-[**LinkedIn**](https://linkedin.com) • [**GitHub**](https://github.com/laynyvitoria) • [**Email**](mailto:laynyvitoriamac@gmail.com)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Email](https://shields.io)](mailto:laynyvitoriamac@gmail.com)
+[![GitHub](https://shields.io)](https://github.com)
